@@ -11,6 +11,8 @@ body{
     text-align: center;
     background-image: url("img1.jpg");
     font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
     
 }
 .align{
